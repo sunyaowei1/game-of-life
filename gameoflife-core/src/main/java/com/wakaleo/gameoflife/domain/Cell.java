@@ -1,6 +1,7 @@
 package com.wakaleo.gameoflife.domain;
 
  /**
+ * test cron time
  * Wakaleo Consulting - John Ferguson Smart
  * Game of life, demonstration application for Jenkins: The Definitive Guide
  *
